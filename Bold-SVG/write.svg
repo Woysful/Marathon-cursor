@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-miterlimit:1.5;">
+    <g id="_2px" serif:id="2px">
+        <use id="hand" xlink:href="#_Image1" x="31.394" y="36.394" width="27px" height="27px"/>
+        <g id="hand1" serif:id="hand" transform="matrix(0,-1,0.88,0,6.36,67.054327)">
+            <path d="M33.054,31.409L33.054,35.565L15.841,55.125L12.184,50.97L29.397,31.409L33.054,31.409Z" style="fill:rgb(235,235,235);"/>
+            <path d="M35.054,36.506L15.841,58.339L9.356,50.97L28.569,29.136L35.054,29.136L35.054,36.506ZM33.054,31.409L29.397,31.409L12.184,50.97L15.841,55.125L33.054,35.565L33.054,31.409Z"/>
+        </g>
+    </g>
+    <defs>
+        <image id="_Image1" width="27px" height="27px" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABsAAAAbCAYAAACN1PRVAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAs0lEQVRIie3VMQ4BQRQG4I9otdshGnEJhcO4lnPoFC6goNAQERcg6lWsTZaMlTBT2ZdM8iav+PLnTTItjDERrgVOb2Zf1Qz5m7PHIBbUqfQHnCv3DCMsMcUxBlgmW3lOdcFGxITtmlkXfWwxVCT8CazDooNVLMM1NdhT7CRX7Ogi/DKj7XDQgA3YgA343+CuAmYpwTVuj37u83f2NRgVqgOTQCFwlxIKgUmhVzA5VFZWB90BSwjlxwsV4QwAAAAASUVORK5CYII="/>
+    </defs>
+</svg>
