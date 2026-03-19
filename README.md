@@ -5,11 +5,11 @@
 I honestly have no idea where people usually post their cursors, but I like Guthub, so that's where they are.
 
 ## How to install | Linux
-1. Download and unpack archive into `~/.local/share/icons/`
+1. [Download](https://github.com/Woysful/Marathon-cursor/releases/latest/marathon_linux.tag.gz) and unpack archive into `~/.local/share/icons/`
 2. Set preffered style in appearance settings
 
 ## How to install | Windows
-1. Download and unpack archive whenever you like
+1. [Download](https://github.com/Woysful/Marathon-cursor/releases/latest/marathon_windows.zip) and unpack archive whenever you like
 2. Open preffered style folder, then RMB on `Install.inf` -> Install
 3. Open controll panel, find `Mouse`, set preffered style from dropdown list
 ---
