@@ -2,8 +2,10 @@
 icons/bold_2px/PNG/
 icons/regular_1px/PNG/
 
+.ripped
 marathon.af
+*.ignored
 
 # build archives
-build/windows/windows.zip
-build/linux/linux.tar.gz
+build/windows/*.zip
+build/linux/*.tar.gz
