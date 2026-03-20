@@ -1,0 +1,9 @@
+# art part
+icons/bold_2px/PNG/
+icons/regular_1px/PNG/
+
+marathon.af
+
+# build archives
+build/windows/windows.zip
+build/linux/linux.tar.gz

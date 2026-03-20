@@ -1,0 +1,55 @@
+
+[Version]
+signature="$CHICAGO$"
+
+[DefaultInstall]
+CopyFiles = Scheme.Cur
+AddReg    = Scheme.Reg
+
+[DestinationDirs]
+Scheme.Cur = 10,"%CUR_DIR%"
+Scheme.Txt = 10,"%CUR_DIR%"
+
+[Scheme.Reg]
+HKCU,"Control Panel\Cursors\Schemes","%SCHEME_NAME%",,"%10%\%CUR_DIR%\%pointer%,%10%\%CUR_DIR%\%help%,%10%\%CUR_DIR%\%work%,%10%\%CUR_DIR%\%busy%,%10%\%CUR_DIR%\%cross%,%10%\%CUR_DIR%\%text%,%10%\%CUR_DIR%\%hand%,%10%\%CUR_DIR%\%unavailable%,%10%\%CUR_DIR%\%Vert%,%10%\%CUR_DIR%\%Horz%,%10%\%CUR_DIR%\%Dgn1%,%10%\%CUR_DIR%\%Dgn2%,%10%\%CUR_DIR%\%move%,%10%\%CUR_DIR%\%alternate%,%10%\%CUR_DIR%\%link%,%10%\%CUR_DIR%\%location%,%10%\%CUR_DIR%\%person%"
+
+; Installed files
+
+[Scheme.Cur]
+"hand_hover.ani"
+"hand_grab.cur"
+"hand_point.ani"
+"cross.ani"
+"cursor.cur"
+"cursor_help.ani"
+"cursor_loading.ani"
+"stretch_BL_TR.ani"
+"stretch_TL_BR.ani"
+"stretch_horz.ani"
+"stretch_vert.ani"
+"text.ani"
+"loading.ani"
+"unavaliable.cur"
+"alternate.cur"
+"write.cur"
+
+[Strings]
+CUR_DIR = "Cursors\Marathon_bold"
+SCHEME_NAME = "Marathon - bold"
+pointer = "cursor.cur"
+help = "cursor_help.ani"
+work = "cursor_loading.ani"
+busy = "loading.ani"
+text = "text.ani"
+unavailable = "unavaliable.cur"
+vert = "stretch_vert.ani"
+horz = "stretch_horz.ani"
+dgn1 = "stretch_TL_BR.ani"
+dgn2 = "stretch_BL_TR.ani"
+move = "hand_grab.cur"
+link = "hand_point.ani"
+cross = "cross.ani"
+hand = "write.cur"
+alternate = "alternate.cur"
+location = "hand_point.ani"
+person = "hand_point.ani"
