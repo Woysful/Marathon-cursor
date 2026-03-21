@@ -4,7 +4,7 @@
 
 I honestly have no idea where people usually post their cursors, but I like Guthub, so that's where they are.
 
-## How to install | Linux
+## How to install | Linux (at least should work with KDE Plasma)
 1. [Download](https://github.com/Woysful/Marathon-cursor/releases/latest/download/marathon_linux.tar.gz) and unpack archive into `~/.local/share/icons/`
 2. Set preffered style in appearance settings
 
