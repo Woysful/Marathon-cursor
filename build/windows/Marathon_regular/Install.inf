@@ -17,7 +17,7 @@ HKCU,"Control Panel\Cursors\Schemes","%SCHEME_NAME%",,"%10%\%CUR_DIR%\%pointer%,
 
 [Scheme.Cur]
 "hand_hover.ani"
-"hand_grab.cur"
+"hand_grab.ani"
 "hand_point.ani"
 "cross.ani"
 "cursor.cur"
@@ -46,7 +46,7 @@ vert = "stretch_vert.ani"
 horz = "stretch_horz.ani"
 dgn1 = "stretch_TL_BR.ani"
 dgn2 = "stretch_BL_TR.ani"
-move = "hand_grab.cur"
+move = "hand_grab.ani"
 link = "hand_point.ani"
 cross = "cross.ani"
 hand = "write.cur"
