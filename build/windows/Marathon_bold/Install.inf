@@ -18,6 +18,7 @@ HKCU,"Control Panel\Cursors\Schemes","%SCHEME_NAME%",,"%10%\%CUR_DIR%\%pointer%,
 [Scheme.Cur]
 "hand_hover.ani"
 "hand_grab.ani"
+"hand_grab_loop.ani"
 "hand_point.ani"
 "cross.ani"
 "cursor.cur"
