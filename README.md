@@ -9,7 +9,7 @@ I honestly have no idea where people usually post their cursors, but I like Guth
 2. Set preffered style in appearance settings
 
 ## How to install | Windows
-1. [Download](https://github.com/Woysful/Marathon-cursor/releases/latest/download/marathon_windows.zip) and unpack archive whenever you like
+1. [Download](https://github.com/Woysful/Marathon-cursor/releases/latest/download/marathon_windows.zip) download and unpack archive
 2. Open preffered style folder, then RMB on `Install.inf` -> Install
 3. Open controll panel, find `Mouse`, set preffered style from dropdown list
 ---
