@@ -1,6 +1,7 @@
 # art part
 icons/bold_2px/PNG/
 icons/regular_1px/PNG/
+_custom
 
 .ripped
 marathon.af
@@ -9,4 +10,3 @@ marathon.af
 # build archives
 build/windows/*.zip
 build/linux/*.tar.gz
-/_custom
