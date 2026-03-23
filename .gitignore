@@ -9,3 +9,4 @@ marathon.af
 # build archives
 build/windows/*.zip
 build/linux/*.tar.gz
+/_custom
