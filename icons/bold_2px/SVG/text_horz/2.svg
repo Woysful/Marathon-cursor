@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-miterlimit:1.5;">
+    <g id="_2px" serif:id="2px">
+        <g id="Text_horz">
+            <use id="Text" xlink:href="#_Image1" x="16.394" y="32.394" width="31px" height="9px"/>
+            <g id="Text1" serif:id="Text" transform="matrix(0.5,0,0,0.88,15.472837,4.36)">
+                <rect x="7.054" y="29.136" width="52" height="4.545" style="fill:rgb(235,235,235);"/>
+                <path d="M3.054,35.955L3.054,26.864L63.054,26.864L63.054,35.955L3.054,35.955ZM59.054,33.682L59.054,29.136L7.054,29.136L7.054,33.682L59.054,33.682Z"/>
+            </g>
+        </g>
+    </g>
+    <defs>
+        <image id="_Image1" width="31px" height="9px" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB8AAAAJCAYAAADKIfe/AAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAZklEQVQ4jcXTsQ0CMQyF4S8odeagygQwDlPBNrAEFdXNcVcgJCPdlXF+yZK7337SKzjjKp833LBOmHsNl3ywjHoz0NAhyhdcEuSv33JKkB0yVR5jb0IkAyl78p4g/qP69u2RLcZzA0ldJln8N4lMAAAAAElFTkSuQmCC"/>
+    </defs>
+</svg>
